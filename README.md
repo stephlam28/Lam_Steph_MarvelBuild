@@ -18,3 +18,5 @@ Stephanie Lam, lam.steph28@gmail.com
 
 ## License
 No licenses required.
+
+![storm](/img/storm.jpg)
