@@ -15,8 +15,7 @@ Create a site based on selected character using Marvel class build as sample
 
 
 ## Credits
-Stephanie Lam, lam.steph28@gmail.com
-All image credits to Marvel
+All image credits to Marvel.
 
 ## License
 No licenses required.
