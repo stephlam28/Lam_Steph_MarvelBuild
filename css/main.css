@@ -48,6 +48,41 @@ header {
 
     background-image: url('../images/characters_art_mas_mob_01.jpeg');
     background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: multiply;
+}
+
+.characters {
+    list-style-type: none;
+}
+
+.characters li {
+    position: relative;
+    display: inline-block;
+    height: 220px;
+    margin: 10px 8px;
+
+    background-color: black;
+    text-align: left;
+    cursor: pointer;
+}
+
+article {
+    padding: 20px;
+}
+
+article h3 {
+    font-size: 2em;
+    text-align: center;
+    margin-bottom: 14px;
+}
+
+article p {
+    width: 80%;
+    font-size: 18px;
+    line-height: 1.2;
+    text-align: center;
+    margin: 0 auto;
 }
 
 /* footer rules */
