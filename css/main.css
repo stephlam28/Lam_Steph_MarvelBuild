@@ -42,6 +42,14 @@ header {
     padding: 10px 0;
 }
 
+#character_nav {
+    text-align: center;
+    background-color: #675050;
+
+    background-image: url('../images/characters_art_mas_mob_01.jpeg');
+    background-repeat: no-repeat;
+}
+
 /* footer rules */
 footer {
     color: white;
