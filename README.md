@@ -1,5 +1,5 @@
-# Lam_Steph_HW3
-Create a site based on selected character using Marvel class build as sample
+# Lam_Steph_MarvelBuild
+Marvel class build sample
 
 
 ## Installation
